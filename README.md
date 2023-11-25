@@ -1,4 +1,4 @@
-# Laboratorio-3---WEB
+# fundamentos-funciones Laboratorio-3
 
 # Integrantes del Grupo
 * Jared Valenzuela
