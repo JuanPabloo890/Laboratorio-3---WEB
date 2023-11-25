@@ -1,4 +1,4 @@
-# Laboratorio-3---WEB
+# api-modulos Laboratorio-6
 
 # Integrantes del Grupo
 * Jared Valenzuela
